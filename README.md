@@ -1,1 +1,1 @@
-# casual-inference
+# causal-inference
